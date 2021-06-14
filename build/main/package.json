@@ -1,0 +1,22 @@
+{
+    "name": "@e-node/mailtube",
+    "version": "1.0.0",
+    "description": "theroom mail tube",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc -p tsconfig.json"
+    },
+    "author": "Alexey P Nikitin",
+    "license": "MIT",
+    "dependencies": {
+        "@types/imap": "^0.8.34",
+        "@types/node": "^15.12.2",
+        "@types/nodemailer": "^6.4.2",
+        "imap": "^0.8.19",
+        "nodemailer": "^6.6.1"
+    },
+    "devDependencies": {
+        "tslib": "^1.10.0",
+        "typescript": "^3.5.3"
+    }
+}
