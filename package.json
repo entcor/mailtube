@@ -1,6 +1,6 @@
 {
-  "name": "@e-node/mailtube",
-  "version": "1.0.0",
+  "name": "@entcor/mailtube",
+  "version": "0.1.0",
   "description": "theroom mail tube",
   "main": "index.js",
   "scripts": {
@@ -19,5 +19,17 @@
   "devDependencies": {
     "tslib": "^1.10.0",
     "typescript": "^3.5.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/entcor/mailtube.git"
+  },
+  "keywords": [
+    "mail",
+    "data"
+  ],
+  "bugs": {
+    "url": "https://github.com/entcor/mailtube/issues"
+  },
+  "homepage": "https://github.com/entcor/mailtube#readme"
 }
